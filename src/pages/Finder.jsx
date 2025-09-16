@@ -49,7 +49,7 @@ const Finder = ({ searchResults, setSearchResults }) => {
           <input
             type="text"
             className="form__control"
-            placeholder="Search Media Title..."
+            placeholder="Search Movie Title..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             id="movies-search-box"
