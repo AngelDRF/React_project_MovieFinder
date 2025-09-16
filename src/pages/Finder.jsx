@@ -92,7 +92,7 @@ const Finder = ({ searchResults, setSearchResults }) => {
           <div className="no-results">
             <h2 className="text__center white">
               <span className="light__purple">Search</span> for a{" "}
-              <span className="yellow__text">MOVIE </span>to see results
+              <span className="light__purple">MOVIE </span>to see results
             </h2>
           </div>
         )}
